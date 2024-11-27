@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+    .hero {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .hero-text, .about-content {
+        max-width: 100%;
+    }
+
+    .about {
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+
+    .about-image img {
+        margin-bottom: 2rem;
+    }
+}

@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# Irah Podóloga - Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi criado com [Create React App](https://github.com/facebook/create-react-app).
+
+## Instruções para Imagens
+
+Para que o site funcione corretamente, você precisa adicionar as seguintes imagens:
+
+### Foto Profissional
+Adicione uma foto profissional em:
+- `public/images/profile/irah.png`
+
+### Imagens dos Trabalhos
+Adicione imagens relacionadas a cada tipo de trabalho em:
+- `public/images/work/unha-encravadas.png`
+- `public/images/work/micose-unha.png`
+- `public/images/work/olho-de-peixe.png`
+
+Certifique-se de que as imagens estejam nos formatos corretos (preferencialmente JPG ou PNG) e tenham tamanhos adequados para web (recomendado: largura máxima de 1200px).
 
 ## Available Scripts
 

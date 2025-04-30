@@ -14,7 +14,7 @@ const About = () => {
                 </p>
             </div>
             <div className="about-image">
-                <img src="/path/to/andressa.jpg" alt="Andressa" />
+                <img src={process.env.PUBLIC_URL + '/images/profile/irah.png'} alt="irah" />
             </div>
         </section>
     );
